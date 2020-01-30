@@ -1,4 +1,4 @@
-# AmericanExpress_MLHiring_Hackerearth_2018
+# American Express Artificial Intelligence Competition
 
 [Competition Link](https://www.hackerearth.com/challenges/hiring/ai-problem-statement-2/)
 
